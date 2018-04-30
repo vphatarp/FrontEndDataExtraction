@@ -7,5 +7,5 @@ The tool carries out the following functions:-
 3) Logs into the account.
 4) Enters the search parameters.
 5) Handles a pop-up block.
-6) Naviagtes through 30 pages for filtering.
+6) Navigates through 30 pages for filtering.
 7) Writes the results into an HTML file.
